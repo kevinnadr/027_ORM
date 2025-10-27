@@ -1,0 +1,11 @@
+1. GET
+![GET](SS/GET.png)
+
+2. POST
+![POST](SS/POST.png)
+
+3.PUT/UPDATE
+![PUT/UPDATE](SS/PUT.png)
+
+4.DELETE
+![DELETE](SS/DELETE.png)
